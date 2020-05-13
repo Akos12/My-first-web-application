@@ -1,0 +1,14 @@
+img{
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    margin: 0px;
+    flex-direction: row-reverse;
+    justify-content: row;
+}
+body{
+    background: light green;
+}
+.fordit{
+    transform: rotate(0.5turn);
+}
